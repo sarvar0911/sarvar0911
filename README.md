@@ -13,7 +13,6 @@ Currently, I'm deepening my understanding of advanced Django features and explor
 
 * 🌍  I'm based in Tashkent, Uzbekistan
 * ✉️  You can contact me at [a.sarvar2005@gmail.com](mailto:a.sarvar2005@gmail.com)
-* 🧠  I'm learning Django REST framework
 * 🤝  I'm open to collaborating on exciting projects
 
 ### Skills
