@@ -8,6 +8,7 @@ I'm a passionate Backend Developer based in Tashkent. I started my journey in so
  - 🐍 Proficient in Python and experienced with Django framework 
  - 🗄️ Skilled in designing and managing relational databases with PostgreSQL
  - 🔄 Familiar with RESTful API development and integration
+
 Currently, I'm deepening my understanding of advanced Django features and exploring Django REST framework to enhance my API development skills. I'm also experimenting with Docker for containerizing my applications and improving deployment processes.
 
 * 🌍  I'm based in Tashkent, Uzbekistan
